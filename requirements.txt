@@ -1,0 +1,10 @@
+EJS                         --> Generate HTML with plain JS
+MySQL2                      --> MySQL client for Node.js with focus on performance
+express-session             --> Create a session middleware
+bcrypt                      --> A library to help you hash passwords
+express-mysql-session       --> A MySQL session store for express
+express-rate-limit          --> Basic rate-limiting middleware for Express
+Zod                         --> TypeScript-first schema validation with static type inference
+Pino                        --> Very low overhead JavaScript logger
+pino-http                   --> High-speed HTTP logger for Node.js
+Helmet                      --> Helmet helps secure Node/Express apps. It sets HTTP response headers such as Content-Security-Policy and Strict-Transport-Security
